@@ -1,0 +1,86 @@
+#test1 {
+   background-color: #f3c600;
+   position:relative
+}
+#test2 {
+   background-color: #F5DA81;
+      position:relative;
+	  border-radius: 8px;
+}
+#Zauber1 {
+      position:absolute
+}
+#test4 {
+   text-align: center;
+   background-color: #f3c600;
+   border-bottom: 1px solid black;
+   font-size: 16px;
+   font-weight: bold;
+   position:relative
+}
+#test5 {
+   background: linear-gradient(to right,#F96A3E,#F96A3E);
+   text-align: center;
+   border-bottom: 4px solid black;
+   font-size: 16px;
+   font-weight: bold;
+   position:relative
+}
+#test6 {
+   text-align: center;
+   background: linear-gradient(to right,#BEBDBD,white);
+   border-bottom: 1px solid black;
+   font-size: 16px;
+   font-weight: bold;
+   position:relative
+}
+#test7 {
+   text-align: center;
+   background: linear-gradient(to right,#EAE6E6,white);
+   border-bottom: 1px solid black;
+   font-size: 16px;
+   font-weight: bold;
+   position:relative
+}
+#Team {
+	text-align: center;
+	position: relative;
+	background-color: #58D3F9;
+}
+#Team1
+{
+	border-collapse: collapse;
+	text-align: center;
+	}
+#Team2
+{
+	background-color: #F2F2F2;
+}
+#Team3
+{
+	background-color: #BDBDBD;
+	
+}
+#Border
+{
+	border-radius: 8px;
+	border-color: #F2F3F4;
+	border-style: solid;
+	border-width: 4px;
+}
+#Drehen
+{
+	position: relative;
+	transform: 
+    /* 45 is really 360 - 45 */
+    rotate(315deg);
+}
+#Formate {
+	text-align: center;
+	border-bottom: 1px solid black;
+	position: relative;
+}
+#Border1
+{
+	border-bottom: 4px solid #F2F3F4;
+}

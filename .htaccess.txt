@@ -1,0 +1,18 @@
+Video
+
+AddType video/mp4 .mp4 
+AddType video/x-m4v .m4v
+AddType video/webm .webm 
+AddType audio/webm .weba
+AddType video/ogg .ogm 
+AddType video/ogg .ogv 
+AddType video/ogg .ogg
+
+Audio
+
+AddType audio/aac .aac
+AddType audio/mp4 .mp4 .m4a
+AddType audio/mpeg .mp1 .mp2 .mp3 .mpg .mpeg
+AddType audio/ogg .oga .ogg
+AddType audio/wav .wav
+AddType audio/webm .webm
